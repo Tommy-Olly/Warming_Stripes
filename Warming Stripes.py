@@ -1,4 +1,4 @@
-# Warming stripes by Ed Hawkings
+# Warming Stripes by Ed Hawkins
 # author: Tommaso Olivero
 
 # Inspiration code:
